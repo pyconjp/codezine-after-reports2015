@@ -48,9 +48,13 @@ PyCon JP 2015 開催後レポート: Codezine
 .. toctree::
    :maxdepth: 2
 
+   01_media
    01_authors
+   02_program
    02_authors
+   03_venue
    03_authors
+   04_jimukyoku
    04_authors
 
 Indices and tables
