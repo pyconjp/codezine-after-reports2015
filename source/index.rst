@@ -7,6 +7,9 @@
 PyCon JP 2015 開催後レポート: Codezine
 =========================================
 
+.. contents:: 目次
+   :local:
+
 執筆時の注意
 ============
 - **ですます調** で書いてください
@@ -41,7 +44,6 @@ PyCon JP 2015 開催後レポート: Codezine
      - 11/19
      - 12/03
 
-
 目次
 ====
 
@@ -57,10 +59,20 @@ PyCon JP 2015 開催後レポート: Codezine
    04_jimukyoku
    04_authors
 
-Indices and tables
-==================
+参考リンク
+==========
+- Flickr: 写真はここから持って行って使ってください
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+  - `day1 Tutorial <https://www.flickr.com/photos/pyconjp/sets/72157659234424820>`_
+  - `day2 Conference <https://www.flickr.com/photos/pyconjp/sets/72157657359868383>`_
+  - `day3 Conference <https://www.flickr.com/photos/pyconjp/sets/72157659757047045>`_
+  - `day4 Sprint <https://www.flickr.com/photos/pyconjp/sets/72157657415204804>`_
+    
+- 2014のレポート記事
 
+  - ソース: https://bitbucket.org/pyconjp/reports2014/src/ec236306c7a01fd85aab5f1c528cbf2283c9ea25/2014/post/?at=default
+  - `第1回 座長挨拶・会場チームの作業内容について <http://codezine.jp/article/detail/8196>`_
+  - `第2回 プログラムチームの作業内容について <http://codezine.jp/article/detail/8197>`_
+  - `第3回 メディアチームの作業内容について <http://codezine.jp/article/detail/8198>`_
+  - `第4回 事務局の作業内容について・総括・次回に向けて <http://codezine.jp/article/detail/8199>`_
+  
