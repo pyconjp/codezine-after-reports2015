@@ -56,7 +56,7 @@ PyCon JP 2015ではpandas-validatorというライブラリについてLightning
 - Facebook: `芝田 将 <http://facebook.com/masashi.cbata>`_
 
 橋本 安司(はしもと やすし)
-======================
+==========================
 .. image:: /_static/hashimoto.jpg
 
 ゲーム系のエンタメ誌のエディターや、サブカル系のショップのWebディレク
