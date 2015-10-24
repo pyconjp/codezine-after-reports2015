@@ -55,3 +55,17 @@ PyCon JP 2015ではpandas-validatorというライブラリについてLightning
 - Twitter: `@c_bata_ <https://twitter.com/c_bata_>`_
 - Facebook: `芝田 将 <http://facebook.com/masashi.cbata>`_
 
+橋本 安司(はしもと やすし)
+======================
+.. image:: /_static/hashimoto.jpg
+
+ゲーム系のエンタメ誌のエディターや、サブカル系のショップのWebディレク
+ターを経て、２０代後半にPython/Djangoに出会い、Web屋となりました。
+PyConJP2015ではWebシステムの改修を担当。
+現在は `シリアルゲームズ <http://www.serialgames.co.jp/>`_ にて、主に
+Webのフロントエンドを担当。Pythonより、JavaScript歴の方が長いです。
+その他、Node.js、Electornなどもいじりつつ、Pythonのお仕事が来ないか待っ
+ている日々です。
+
+- Twitter: `@yellow844 <https://twitter.com/yellow844>`_
+- Facebook: `橋本安司 <http://facebook.com/yasushi.hashimoto.3>`_
