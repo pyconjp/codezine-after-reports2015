@@ -42,3 +42,13 @@
 - Twitter: `@takanory <https://twitter.com/takanory>`_
 - Facebook: `鈴木 たかのり <https://www.facebook.com/takanory.net>`_
 - Webサイト: `takanory.net <http://takanory.net/>`_
+
+
+
+
+安立　沙耶佳（アダチ　サヤカ）
+==============================
+株式会社リクルートキャリアにて、CodeIQの運営をしています。PyCon JPには2015年から携わっています。エンジニアの喜怒哀楽をもっと知りたいと思っていたところを誘われ、PyCon JPのスタッフになりました。
+
+- Facebook: `安立　沙耶佳 <https://www.facebook.com/  sayaka.adachi.posi>`_
+
