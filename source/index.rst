@@ -17,6 +17,14 @@ PyCon JP 2015 開催後レポート: Codezine
 
 - `PyCon JP 2014 参加レポート <http://gihyo.jp/news/report/01/pyconjp2014>`_ とかを参考に
 
+レビュー
+=========
+
+ビルドしたHTMLはReadthedocsで見れます。コメント等あればSpreadsheetにお願いします。
+
+- http://codezine-after-reports2015.readthedocs.org/ja/latest/index.html
+- https://docs.google.com/spreadsheets/d/1chf46sHANwzc5l0jWhNpfJl-VjYPvAOVIp813kv9v-o/edit?usp=sharing
+
 執筆スケジュール
 ----------------
 
