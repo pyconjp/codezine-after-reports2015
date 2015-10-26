@@ -48,6 +48,7 @@
 
 安立　沙耶佳（アダチ　サヤカ）
 ==============================
+.. image:: /_static/angela.jpg
 株式会社リクルートキャリアにて、CodeIQの運営をしています。PyCon JPには2015年から携わっています。エンジニアの喜怒哀楽をもっと知りたいと思っていたところを誘われ、PyCon JPのスタッフになりました。
 
 - Facebook: `安立　沙耶佳 <https://www.facebook.com/  sayaka.adachi.posi>`_
