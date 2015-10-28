@@ -81,3 +81,16 @@ Web系企業とか伝統肉系NPOとかに所属しているジビエ愛好家�
 PyCon JP スタッフ歴も4年目となりましたが、まだまだ新人気分で日々を過ごしています。
 
 - Twitter: `@RicoImazu <https://twitter.com/ricoimazu>`_
+
+臼井 洋文(ウスイ ヒロフミ)
+==============================
+.. image:: /_static/usui.jpg
+
+Pythonはほとんど書いたことがないにもかかわらず、#kabepyで知り合った座長の鈴木たかのりさんに声をかけられ撮影担当としてスタッフに。
+
+仕事はPerlでサーバサイド開発がメインですが、必要に応じてiOS/Androidアプリの開発やインフラ周りの整備なども行っています。
+
+趣味はボルダリングと写真。
+
+- Twitter: `@usuihiro <https://twitter.com/usuihiro>`_
+
