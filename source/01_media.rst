@@ -172,6 +172,7 @@ Symposionを拡張させて来ているために、箇所によっては機能�
 - `「PyCon JP 2015」がやってくる！！ 見どころ満載、楽しみ方は無限大 | Think IT（シンクイット） <http://thinkit.co.jp/story/2015/08/11/6289>`_
 - `「コミュニティ参加の最初の一歩に」女性Pythonistaたちが話す『PyCon JP 2015』ガイド - エンジニアtype <http://engineer.typemag.jp/article/pythonjp-2015>`_
 - `『PyCon JP 2015』ジョブフェアに見た、「言語選択とサービス開発」の本質 - エンジニアtype <http://engineer.typemag.jp/article/pyconjp-2015-job>`_
+- `【スライド・動画・実況全部入り】PyCon JP 2015 まとめまとめ #PyConJP - Togetterまとめ <http://togetter.com/li/885210>`_
 
 また、メディアスポンサーには書籍関連の企業も多いため、イベント当日に書籍の物販もよく行われています。
 
