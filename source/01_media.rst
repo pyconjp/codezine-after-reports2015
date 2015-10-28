@@ -63,7 +63,7 @@ PyCon JP 2015 は10月9日(金)の `チュートリアル <https://pycon.jp/2015
 Webサイト
 =========
 Webサイトのシステム改修を担当いたしました橋本です。
-2015年のWebサイトは2014年よりSymposionをforkしたUS PyCon 2014のWebサイトのコードをさらにforkして使用しています。以下よりソースコードが公開されいます。
+2015年のWebサイトは2014年よりSymposionをforkしたUS PyCon 2014のWebサイトのコードをさらにforkして使用しています。以下よりソースコードが公開されています。
 
 `pyconjp-website <https://bitbucket.org/pyconjp/pyconjp-website>`_ 
 
