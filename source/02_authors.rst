@@ -23,3 +23,15 @@
    - Twitter: `@c_bata_ <https://twitter.com/c_bata_>`_
    - Facebook: `芝田 将 <http://facebook.com/masashi.cbata>`_
 
+
+田中　翔(タナカ　ショウ)
+==============================
+.. image:: /_static/tsho.jpg
+
+株式会社◯◯に所属。Scala, Ruby, Python, Javaを使うデータアナリスト。
+大学、大学院で6年ほどfortranを使っていたが、その途中Pythonと出会い、徐々にシフトし、現在仕事以外ではたいていPythonを使う。参加するぐらいなら運営に携わりたいという考えからPyCon JP 初参加ながら、スタッフ参加しました。
+
+他の主な活動は `Scala Matsuri 2016  <http://scalamatsuri.org/>`_ スタッフ
+
+- Twitter: `@tshowis <https://twitter.com/tshowis>`_
+- Facebook: `Sho Tanaka <https://www.facebook.com/tshowis>`_
