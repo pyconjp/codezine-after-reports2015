@@ -37,7 +37,7 @@
 
 共著書に『 `Python プロフェッショナルプログラミング 第2版 <http://www.shuwasystem.co.jp/products/7980html/4315.html>`_ （2015 秀和システム刊）』『 `Python エンジニア養成読本 <http://gihyo.jp/book/2015/978-4-7741-7320-7>`_ （2015 技術評論社刊）』『 `Python ライブラリ厳選レシピ <http://gihyo.jp/book/2015/978-4-7741-7707-6>`_ （2015 技術評論社刊）』などがある。
 
-趣は吹奏楽とレゴとペンシルパズル。
+趣味は吹奏楽とレゴとペンシルパズル。
 
 - Twitter: `@takanory <https://twitter.com/takanory>`_
 - Facebook: `鈴木 たかのり <https://www.facebook.com/takanory.net>`_
