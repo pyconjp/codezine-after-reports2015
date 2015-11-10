@@ -46,3 +46,16 @@ PyCon JP 2015ではプログラムチームに所属。
 ITじゃない会社の社長秘書。趣味でPythonを勉強中。
 初心者だけど、PyLadies Tokyo（http://tokyo.pyladies.com）のスタッフもやってます。10月24日に発足一周年記念イベント、11月27-29日には秋合宿も予定しているのでpythonista女子は是非ご参加を！もちろん初心者も歓迎です！
 
+齋藤 大輔（サイトウ ダイスケ）
+===================================
+.. image:: /_static/saito.jpg
+
+PyCon JP 2015 プログラムチーム(キーノートと子ども向けワークショップ)を担当
+早稲田大学基幹理工学研究科博士後期課程に所属。専門はソフトウェア工学、工学教育。
+
+Pythonは趣味と研究で使用している。最近ではGUIフレームワークのKivyがお気に入り。勉強会等を開催している。
+
+:Twitter: `@PCShop_kabu <https://twitter.com/pcshop_kabu>`_
+:Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
+:Linkedin: `Daisuke Saito <https://www.linkedin.com/in/ds110>`_
+
