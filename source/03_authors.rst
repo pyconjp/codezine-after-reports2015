@@ -59,3 +59,14 @@ Pythonは趣味と研究で使用している。最近ではGUIフレームワ�
 :Facebook: `齋藤 大輔 <https://www.facebook.com/ds110.sai>`_
 :Linkedin: `Daisuke Saito <https://www.linkedin.com/in/ds110>`_
 
+的場 達矢（マトバ タツヤ）
+===================================
+.. image:: /_static/matoba.jpg
+
+PyCon JP 2015でプログラムチーム(子ども向けワークショップ)を担当。
+学生時代、恩師の勧めでPythonを始めて以来、Pythonが好きで言語が自由ならPythonを選択する人です。
+普段はSIerでSEをしており、Pythonは趣味で使っています。
+Pythonの利用用途は、WebアプリケーションやGUIアプリケーション、データ解析、グルーコード等々。
+
+
+
