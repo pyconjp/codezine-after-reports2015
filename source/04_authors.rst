@@ -66,19 +66,3 @@
 
 - Twitter: `@tshowis <https://twitter.com/tshowis>`_
 - Facebook: `Sho Tanaka <https://www.facebook.com/tshowis>`_
-
-
-
-清田 史和 (キヨタ フミカズ)
-========================================
-
-.. image:: /_static/kiyota.jpg
-
-PyCon JP 2015 ではプログラムチームに所属。
-
-SnapDish というサービスを開発・運営しています。仕事では Objective-C や Python を書く事が多いです。AWS上でのインフラの運用構築なども仕事でやっています。PyCon JP に関わって、新たな技術や今までに会う事が出来なかった人に出会えてとても刺激になっています。今年も、プログラムチームでPyCon JP 2015を盛り上げていけたらたと思っています。
-
-:Twitter: `@kiyotaman <https://twitter.com/kiyotaman>`_
-:サイト: `http://snapdish.co <http://snapdish.co>`_
-
-
