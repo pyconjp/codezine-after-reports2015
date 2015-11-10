@@ -9,24 +9,26 @@
 =============
 プログラムチームの齋藤です。
 PyCon JP 2015でキーノートを担当いたしました。
-というわけでレポートです。
+担当内容としては、キーノートスピーカーの決定、メールでのやり取り。
+海外スピーカーのピックアップなどなど。というわけでレポートです
 
 今年のキーノートについて
 ---------------------------
 今年のキーノートは、Hynek Schlawack氏と佐藤治夫氏でした。
+発表内容などについては以下、リンクを見ていただければとおもいます。
 
 1日目 Hynek Schlawack氏
 
-動画: ‘https://youtu.be/8taRoVYv_UI’_
+動画: https://youtu.be/8taRoVYv_UI
 
-スライド: ‘https://speakerdeck.com/hynek/beyond-grep-pycon-jp’_
+スライド: https://speakerdeck.com/hynek/beyond-grep-pycon-jp
 
 
 2日目 佐藤 治夫氏
 
-動画: ‘https://youtu.be/RJH8R9_OL8k '_
+動画: https://youtu.be/RJH8R9_OL8k
 
-スライド: 'http://www.slideshare.net/ssuserafaef6/pycon-jp-2015-keynote'
+スライド: http://www.slideshare.net/ssuserafaef6/pycon-jp-2015-keynote
 
 
 大変だったこと
@@ -37,7 +39,8 @@ Lynn氏からの紹介もありHynek氏に決まった時はホッとしまし�
 
 よかった点。反省点
 ---------------------------
-
+全体を通してよかったと思います。反省点としてはオフィスアワーだったり海外スピーカーとのコミュニケーションだったり、いろいろあります。
+来年につなげたいです。
 
 まとめ
 ---------------------------
