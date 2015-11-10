@@ -15,6 +15,18 @@ PyCon JP 2015でキーノートを担当いたしました。
 ---------------------------
 今年のキーノートは、Hynek Schlawack氏と佐藤治夫氏でした。
 
+1日目 Hynek Schlawack氏
+
+動画: ‘https://youtu.be/8taRoVYv_UI’_
+
+スライド: ‘https://speakerdeck.com/hynek/beyond-grep-pycon-jp’_
+
+
+2日目 佐藤 治夫氏
+
+動画: ‘https://youtu.be/RJH8R9_OL8k '_
+
+スライド: 'http://www.slideshare.net/ssuserafaef6/pycon-jp-2015-keynote'
 
 
 大変だったこと
