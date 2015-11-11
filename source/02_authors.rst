@@ -35,3 +35,20 @@
 
 - Twitter: `@tshowis <https://twitter.com/tshowis>`_
 - Facebook: `Sho Tanaka <https://www.facebook.com/tshowis>`_
+
+
+ナツ（ナツ）
+==============================
+.. image:: /_static/natsu_bm.jpg
+
+ゲリラ的テスト屋さん。Python使いではありませんが、PyCon JPでは会場担当を引き受けて4年目になります。 Twitter： @natsu_bm
+
+
+水野真璃（みずのまり）
+==============================
+.. image:: /_static/mmznn.jpg
+
+PyCon JPスタッフ2年生。
+Python書かないどころかプログラミングしていなくても入れる太っ腹な `Pythonボルダリング部（#kabepy） <http://kabepy.connpass.com/>`_ で壁を登っています。
+部員の腹は出ていません。
+
