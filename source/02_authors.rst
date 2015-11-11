@@ -52,3 +52,16 @@ PyCon JPスタッフ2年生。
 Python書かないどころかプログラミングしていなくても入れる太っ腹な `Pythonボルダリング部（#kabepy） <http://kabepy.connpass.com/>`_ で壁を登っています。
 部員の腹は出ていません。
 
+新井 正貴（アライ マサタカ）
+=============================
+.. image:: /_static/arai.jpg
+
+PyCon JP 2015では会場チームに所属。パーティーを担当。
+
+仕事ではPHPやJavaを書くことが多いですが、Pythonの設計思想とPythonコミュニティの雰囲気が好きでスタッフに参加。
+副座長の関根とともに勉強会 `Pythonもくもく会 <http://mokupy.connpass.com>`_ を主催しています。
+
+趣味はラクロスとPerfume。
+
+- Twitter: `@massa142 <https://twitter.com/massa142>`_
+- Facebook: `新井 正貴 <https://www.facebook.com/mstk214>`_
