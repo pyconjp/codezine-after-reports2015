@@ -90,6 +90,20 @@ Party
 
 カンファレンスに参加するメリットの一つとして、参加者同士のリアルなコミュニケーションがあると思います。PyCon JPではこの機会を提供できる食事 / パーティーというものを来年もこだわっていきたいです。
 
+.. figure:: /_static/02_venue/party_01.jpg
+   :width: 600
+   :alt: パーティーの様子１
+   :target: https://www.flickr.com/photos/pyconjp/21489399874/in/album-72157657359868383/
+
+   パーティーの様子１
+
+.. figure:: /_static/02_venue/party_02.jpg
+   :width: 600
+   :alt: パーティーの様子１
+   :target: https://www.flickr.com/photos/pyconjp/21482338704/in/album-72157657359868383/
+
+   パーティーの様子２
+
 
 ランチ
 ======
