@@ -69,4 +69,13 @@ PyCon JP 2015でプログラムチーム(子ども向けワークショップ)�
 Pythonの利用用途は、WebアプリケーションやGUIアプリケーション、データ解析、グルーコード等々。
 
 
+関根 裕紀 (セキネ ヒロノリ)
+========================================
+
+.. image:: /_static/sekine.jpg
+
+株式会社SQUEEZE CTO。複数のスタートアップ、ベンチャー企業にてさまざまなWebサービスの開発に携わったあと現職。6，7年ほど前にPythonを使用して以来，Pythonが好き。PyCon JP 2015 副座長（プログラム）、また月に一度の勉強会である「`Pythonもくもく会 <http://mokupy.connpass.com/>`_ 」を主催している。共著書に『 `Python エンジニア養成読本 <http://gihyo.jp/book/2015/978-4-7741-7320-7>`_ （2015 技術評論社刊）』がある。
+
+
+:Twitter: `@checkpoint <https://twitter.com/checkpoint>`_
 
