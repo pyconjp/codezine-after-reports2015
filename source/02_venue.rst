@@ -127,6 +127,21 @@ PyCon JP では、方針として「食事はしっかり(全員にいきわた�
 
 「美味しい」「楽しい」を通じて、参加されてる皆様のコミュニケーションの一助となれば幸いです。
 
+.. figure:: /_static/02_venue/kitchen_car.jpg
+   :width: 600
+   :alt: このようなキッチンカーで4台来ていただきました！
+   :target: https://www.flickr.com/photos/pyconjp/21452632623/in/album-72157657359868383/
+
+   このようなキッチンカーで4台来ていただきました！
+
+
+.. figure:: /_static/02_venue/lunch.jpg
+   :width: 600
+   :alt: 実際のランチの一例です
+   :target: https://www.flickr.com/photos/pyconjp/22073772515/in/album-72157657359868383/
+
+   実際のランチの一例です
+
 
 おやつ・コーヒー
 ================
@@ -143,6 +158,22 @@ PyCon JP では、方針として「食事はしっかり(全員にいきわた�
 おやつもコーヒーも、カンファレンスに必須というよりおまけに近い部分なので、出来るだけ参加者の方を驚かしたり楽しんだりできる時間になっていれば幸いです。
 
 
+.. figure:: /_static/02_venue/fukuzo-sweets.jpg
+   :width: 600
+   :alt: カンファレンス1日目のおやつ『福蔵』
+   :target: https://www.flickr.com/photos/pyconjp/21885868678/in/album-72157657359868383/
+
+   カンファレンス1日目のおやつ『福蔵』
+
+
+.. figure:: /_static/02_venue/roll_cake_tower.jpg
+   :width: 600
+   :alt: カンファレンス2日目のおやつ『ロールケーキタワー』
+   :target: https://www.flickr.com/photos/pyconjp/22097397442/in/album-72157659757047045/
+
+   カンファレンス2日目のおやつ『ロールケーキタワー』
+
+
 まとめと次回
 ============
 
@@ -152,3 +183,4 @@ PyCon JP では、方針として「食事はしっかり(全員にいきわた�
 『PyCon JP をより快適なカンファレンスにしたい！』という方がいらっしゃいましたら、PyCon JP 2016 はぜひ会場チームで参加してみてください！
 
 次回はプログラムチームの作業内容についてご紹介します。お楽しみに！
+
