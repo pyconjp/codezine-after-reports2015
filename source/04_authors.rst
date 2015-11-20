@@ -74,3 +74,14 @@
 PyCon JP 2015 事務局チームで参加者管理を担当。
 普段はC/C++を扱う画像処理プログラマだが、本業以外ではPython贔屓。最近の興味はコンパイラ技術。
 2015のスタッフでは二番目に若いらしい。
+
+
+橋爪 由美(ハシヅメ ユミ)
+====================
+.. image:: /_static/uniq.jpg
+
+萌え絵描きwebデザイナー。エンジニアと一緒にデザインを実装するのが好き。エンジニアとデザイナーが仲良く作業できるには〜を日々考えています。Pythonを初歩からよちよち勉強中。
+
+- Twitter: `@uniq <https://twitter.com/uniq>`_
+- Facebook: `橋爪 由美 <https://www.facebook.com/uni.ishizaki>`_
+- Webサイト: `Uni-Q.net <http://uni-q.net/>`_
