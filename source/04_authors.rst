@@ -66,3 +66,11 @@
 
 - Twitter: `@tshowis <https://twitter.com/tshowis>`_
 - Facebook: `Sho Tanaka <https://www.facebook.com/tshowis>`_
+
+家治 亮(カジ リョウ)
+====================
+.. image:: /_static/ryok.jpg
+
+PyCon JP 2015 事務局チームで参加者管理を担当。
+普段はC/C++を扱う画像処理プログラマだが、本業以外ではPython贔屓。最近の興味はコンパイラ技術。
+2015のスタッフでは二番目に若いらしい。
