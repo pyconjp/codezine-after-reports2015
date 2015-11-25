@@ -88,3 +88,13 @@ NVDA日本語チーム 監査
 Zope/Ploneの専門家として，大学系・公共系などのCMSコンサルティングや構築を手がけている。PyCon JPには、初回からスタッフとして活動。他のOSS活動も行っている。開発者してはPloneコアコミッターとして，Ploneの開発にも携わっている。
 Twitter: @terapyon
 
+橋爪 由美(ハシヅメ ユミ)
+========================
+.. image:: /_static/uniq.jpg
+
+萌え絵描きwebデザイナー。エンジニアと一緒にデザインを実装するのが好き。エンジニアとデザイナーが仲良く作業できるには〜を日々考えています。Pythonを初歩からよちよち勉強中。
+
+- Twitter: `@uniq <https://twitter.com/uniq>`_
+- Facebook: `橋爪 由美 <https://www.facebook.com/uni.ishizaki>`_
+- Webサイト: `Uni-Q.net <http://uni-q.net/>`_
+
