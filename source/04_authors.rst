@@ -44,7 +44,21 @@
 - Webサイト: `takanory.net <http://takanory.net/>`_
 
 
+吉田 俊輔 (ヨシダ シュンスケ)
+====================================
+TODO:写真(はイメージ)を2014から持ってくる
+reports2014/src/375a412464a4875712447cad1e3b4a2df74dc0e9/2014/post/_static/koedoyoshida.png
+.. image:: /_static/koedoyoshida.png
+   :width: 200
 
+PyCon JP 2015 副座長(事務局)。
+PyCon JPスタッフ参加は2年目。
+ミラクル・リナックス株式会社勤務。
+どこにでもいる自称、一般人です。
+小江戸らぐ/東海道LUG/東京エリアDebian勉強会/USAGI補完計画等、
+関東近郊のOSSコミュニティに参加。イベント参加/出展や原稿執筆を行っています。
+
+- Facebook: `吉田　俊輔 <https://www.facebook.com/koedoyoshida>`_
 
 安立　沙耶佳（アダチ　サヤカ）
 ==============================
