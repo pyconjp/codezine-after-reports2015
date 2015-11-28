@@ -46,8 +46,6 @@
 
 吉田 俊輔 (ヨシダ シュンスケ)
 ====================================
-TODO:写真(はイメージ)を2014から持ってくる
-reports2014/src/375a412464a4875712447cad1e3b4a2df74dc0e9/2014/post/_static/koedoyoshida.png
 .. image:: /_static/koedoyoshida.png
    :width: 200
 
@@ -63,9 +61,10 @@ PyCon JPスタッフ参加は2年目。
 安立　沙耶佳（アダチ　サヤカ）
 ==============================
 .. image:: /_static/angela.jpg
+
 株式会社リクルートキャリアにて、CodeIQの運営をしています。PyCon JPには2015年から携わっています。エンジニアの喜怒哀楽をもっと知りたいと思っていたところを誘われ、PyCon JPのスタッフになりました。
 
-- Facebook: `安立　沙耶佳 <https://www.facebook.com/  sayaka.adachi.posi>`_
+- Facebook: `安立　沙耶佳 <https://www.facebook.com/sayaka.adachi.posi>`_
 
 
 
