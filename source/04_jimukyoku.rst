@@ -183,8 +183,8 @@ PyCon JP 2015 のテーマが「possibilities of Python」。
 Webサイト・Tシャツなどのグッズに
 -----------------------------------
 
-TODO 写真を貼る
-
+宇宙っぽく、かつ爽やかなTシャツの色の選択は、田路さんが行ってくれました！
+スピーカーのバックパネルにもロケットのロゴが採用されました。
 https://www.flickr.com/photos/pyconjp/22085837566/in/album-72157657359868383/
 https://www.flickr.com/photos/pyconjp/22088055006/in/album-72157659757047045/
 https://www.flickr.com/photos/pyconjp/21922055798/in/album-72157659757047045/
