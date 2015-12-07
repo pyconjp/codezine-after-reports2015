@@ -224,7 +224,12 @@ Webサイト・Tシャツなどのグッズに
 ============
 
 PyCon JPは2016年も開催予定です。
-スタッフ募集、スポンサー募集などのお知らせは随時Facebook、Twitterなどで流れる予定です。興味のある方はフォローをお願いします。
+スタッフ募集はすでに開始しています。PyCon JP 2016のスタッフに興味がある方は下記リンクから申し込みをお願いします。また、スタッフの作業はどんなことがあるのかということは、この連載や下記の「スタッフの手引き」を参照してください。
+
+* `PyCon JP 2016 スタッフ申し込みフォーム <https://docs.google.com/forms/d/15PNGpDGhnXVGsNk8jkcYsu2XpVEIqNHcM0L-ah-2aek/viewform>`_
+* `PyCon JP 2016スタッフの手引き <https://docs.google.com/document/d/1ZgpZ9bKR4z_vU0B5_wv_iK7hyPZnyxmT0mRrmEdmiAg/edit#>`_
+
+スポンサー募集などのお知らせは随時Facebook、Twitterなどで流れる予定です。興味のある方はフォローをお願いします。
 
 - Twitter: `@PyConJ <https://twitter.com/pyconj>`_
 - Facebook: `PyCon JP <https://www.facebook.com/PyConJP>`_
