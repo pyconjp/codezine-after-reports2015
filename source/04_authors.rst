@@ -92,10 +92,10 @@ PyCon JP 2015 事務局チームで参加者管理を担当。
 =============================
 .. image:: /_static/terada_pyconjp2015.png
 
-一般社団法人PyCon JP 代表理事
-Plone Foundation Ambassador
-株式会社CMSコミュニケーションズ 代表
-NVDA日本語チーム 監査
+一般社団法人PyCon JP 代表理事。
+Plone Foundation Ambassador。
+株式会社CMSコミュニケーションズ 代表。
+NVDA日本語チーム 監査。
 
 
 Zope/Ploneの専門家として，大学系・公共系などのCMSコンサルティングや構築を手がけている。PyCon JPには、初回からスタッフとして活動。他のOSS活動も行っている。開発者してはPloneコアコミッターとして，Ploneの開発にも携わっている。
